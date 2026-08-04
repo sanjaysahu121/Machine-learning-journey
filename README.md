@@ -24,6 +24,7 @@ Machine Learning: Scikit-Learn
 
 Deployment & ML Tooling: Flask / Streamlit, MLOps best practices
 
+---
 ### 📬 Contact & Connect
 If you have any feedback, suggestions, or questions, feel free to connect!
 
