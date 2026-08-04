@@ -28,4 +28,4 @@ Deployment & ML Tooling: Flask / Streamlit, MLOps best practices
 ### 📬 Contact & Connect
 If you have any feedback, suggestions, or questions, feel free to connect!
 
-LinkedIn: Sanjay Kumar
+LinkedIn: Sanjay Kumar (https://www.linkedin.com/in/sanjay-kumar-350892281/)
